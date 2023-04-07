@@ -41,7 +41,7 @@ public class Product {
     public String getCompany() {
         return company;
     }
-
+    
     public void setCompany(String company) {
         this.company = company;
     }
